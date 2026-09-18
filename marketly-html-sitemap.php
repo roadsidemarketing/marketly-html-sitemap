@@ -6,7 +6,7 @@
  * Version: 2.0.0
  * Author: Marketly Digital
  * Text Domain: marketly-html-sitemap
- * Requires at least: 5.8
+ * Requires at least: 5.5
  * Requires PHP: 7.4
  */
 
